@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "IsArmstrong",
+            "request": "launch",
+            "mainClass": "Recursion.IsArmstrong",
+            "projectName": "JAVA TUTORIAL_296160c8"
+        },
+        {
+            "type": "java",
+            "name": "Power",
+            "request": "launch",
+            "mainClass": "Recursion.Power",
+            "projectName": "JAVA TUTORIAL_296160c8"
+        },
+        {
+            "type": "java",
+            "name": "PrintTable",
+            "request": "launch",
+            "mainClass": "Recursion.PrintTable",
+            "projectName": "JAVA TUTORIAL_296160c8"
+        },
+        {
+            "type": "java",
+            "name": "CountEvenOdd",
+            "request": "launch",
+            "mainClass": "Recursion.CountEvenOdd",
+            "projectName": "JAVA TUTORIAL_296160c8"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Recursion.Factorial",
+            "projectName": "JAVA TUTORIAL_296160c8"
+        },
+        {
+            "type": "java",
+            "name": "CountEvenOddDigit",
+            "request": "launch",
+            "mainClass": "Recursion.CountEvenOddDigit",
+            "projectName": "JAVA TUTORIAL_296160c8"
+        },
+        {
+            "type": "java",
+            "name": "CountZero",
+            "request": "launch",
+            "mainClass": "Recursion.CountZero",
+            "projectName": "JAVA TUTORIAL_296160c8"
+        },
+        {
+            "type": "java",
+            "name": "SumOfNaturalNum",
+            "request": "launch",
+            "mainClass": "Recursion.SumOfNaturalNum",
+            "projectName": "JAVA TUTORIAL_296160c8"
+        },
+        {
+            "type": "java",
+            "name": "SumOfDigit",
+            "request": "launch",
+            "mainClass": "Recursion.SumOfDigit",
+            "projectName": "JAVA TUTORIAL_296160c8"
+        },
+        {
+            "type": "java",
+            "name": "PrintDigits",
+            "request": "launch",
+            "mainClass": "Recursion.PrintDigits",
+            "projectName": "JAVA TUTORIAL_296160c8"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
