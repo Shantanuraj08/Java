@@ -4,6 +4,119 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+        
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "SortingAndSearching.BubbleSort",
+            "projectName": "JAVA TUTORIAL_296160c8"
+        },
+        {
+            "type": "java",
+            "name": "FindDuplicateApproach1",
+            "request": "launch",
+            "mainClass": "Array.FindDuplicateApproach1",
+            "projectName": "JAVA TUTORIAL_296160c8"
+        },
+        {
+            "type": "java",
+            "name": "MergeTwoSortedArrayInReverseOrder",
+            "request": "launch",
+            "mainClass": "Array.MergeTwoSortedArrayInReverseOrder",
+            "projectName": "JAVA TUTORIAL_296160c8"
+        },
+        {
+            "type": "java",
+            "name": "MergeTwoSortedArrays",
+            "request": "launch",
+            "mainClass": "Array.MergeTwoSortedArrays",
+            "projectName": "JAVA TUTORIAL_296160c8"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListBasic",
+            "request": "launch",
+            "mainClass": "ArrayList.ArrayListBasic",
+            "projectName": "JAVA TUTORIAL_296160c8"
+        },
+        {
+            "type": "java",
+            "name": "Segregrate01",
+            "request": "launch",
+            "mainClass": "Array.Segregrate01",
+            "projectName": "JAVA TUTORIAL_296160c8"
+        },
+        {
+            "type": "java",
+            "name": "Reverse",
+            "request": "launch",
+            "mainClass": "Array.Reverse",
+            "projectName": "JAVA TUTORIAL_296160c8"
+        },
+        {
+            "type": "java",
+            "name": "SecondMax",
+            "request": "launch",
+            "mainClass": "Array.SecondMax",
+            "projectName": "JAVA TUTORIAL_296160c8"
+        },
+        {
+            "type": "java",
+            "name": "SearchinArray",
+            "request": "launch",
+            "mainClass": "Array.SearchinArray",
+            "projectName": "JAVA TUTORIAL_296160c8"
+        },
+        {
+            "type": "java",
+            "name": "OddEvenOperation",
+            "request": "launch",
+            "mainClass": "Array.OddEvenOperation",
+            "projectName": "JAVA TUTORIAL_296160c8"
+        },
+        {
+            "type": "java",
+            "name": "MaxAndMinELement",
+            "request": "launch",
+            "mainClass": "Array.MaxAndMinELement",
+            "projectName": "JAVA TUTORIAL_296160c8"
+        },
+        {
+            "type": "java",
+            "name": "MaxELement",
+            "request": "launch",
+            "mainClass": "Array.MaxELement",
+            "projectName": "JAVA TUTORIAL_296160c8"
+        },
+        {
+            "type": "java",
+            "name": "SumOfELments",
+            "request": "launch",
+            "mainClass": "Array.SumOfELments",
+            "projectName": "JAVA TUTORIAL_296160c8"
+        },
+        {
+            "type": "java",
+            "name": "PrintNegativElement",
+            "request": "launch",
+            "mainClass": "Array.PrintNegativElement",
+            "projectName": "JAVA TUTORIAL_296160c8"
+        },
+        {
+            "type": "java",
+            "name": "FindInArray",
+            "request": "launch",
+            "mainClass": "RecursionAdvance.RecursionArray.FindInArray",
+            "projectName": "JAVA TUTORIAL_296160c8"
+        },
+        {
+            "type": "java",
+            "name": "ArrayMethod",
+            "request": "launch",
+            "mainClass": "RecursionAdvance.RecursionArray.ArrayMethod",
+            "projectName": "JAVA TUTORIAL_296160c8"
+        },
         {
             "type": "java",
             "name": "IsArmstrong",
