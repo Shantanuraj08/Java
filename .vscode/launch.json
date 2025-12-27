@@ -4,7 +4,62 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
+        {
+            "type": "java",
+            "name": "DuplicateLeetCode26",
+            "request": "launch",
+            "mainClass": "Array.DuplicateLeetCode26",
+            "projectName": "JAVA TUTORIAL_296160c8"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDuplicate",
+            "request": "launch",
+            "mainClass": "SortingAndSearching.RemoveDuplicate",
+            "projectName": "JAVA TUTORIAL_296160c8"
+        },
+        {
+            "type": "java",
+            "name": "FindingPivotInRotatedArray",
+            "request": "launch",
+            "mainClass": "SortingAndSearching.FindingPivotInRotatedArray",
+            "projectName": "JAVA TUTORIAL_296160c8"
+        },
+        {
+            "type": "java",
+            "name": "Segregrate01UsingTwoPointer",
+            "request": "launch",
+            "mainClass": "Array.Segregrate01UsingTwoPointer",
+            "projectName": "JAVA TUTORIAL_296160c8"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearchInDescendingArray",
+            "request": "launch",
+            "mainClass": "SortingAndSearching.BinarySearchInDescendingArray",
+            "projectName": "JAVA TUTORIAL_296160c8"
+        },
+        {
+            "type": "java",
+            "name": "InsertionSort",
+            "request": "launch",
+            "mainClass": "SortingAndSearching.InsertionSort",
+            "projectName": "JAVA TUTORIAL_296160c8"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSortDescending",
+            "request": "launch",
+            "mainClass": "SortingAndSearching.BubbleSortDescending",
+            "projectName": "JAVA TUTORIAL_296160c8"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSort",
+            "request": "launch",
+            "mainClass": "SortingAndSearching.SelectionSort",
+            "projectName": "JAVA TUTORIAL_296160c8"
+        },
         {
             "type": "java",
             "name": "BubbleSort",
