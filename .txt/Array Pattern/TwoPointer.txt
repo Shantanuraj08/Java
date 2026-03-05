@@ -1,0 +1,13 @@
+
+when to use -
+* Array is sorted 
+* pair/triplets/subarray
+* filter element  in place array
+* in place  operation
+* rev/remove
+
+types of pointer
+ slow and fast pointer - * can maintain relative order of element
+ opposite side poineter-   *it does not maintain relative order  of element
+
+ move away pointer - pointer move away from each other.they are  in middle of array

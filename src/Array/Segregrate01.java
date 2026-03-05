@@ -2,7 +2,7 @@ package Array;
 public class Segregrate01 {
     public static void main(String[] args) {
 
-        // two pass solution  array is traversed two times completely 
+        // two pass solution - array is traversed two times completely 
          int numOfZero =0;
         //  int numOfOne =0; no need of this ,unused in code
          int arr[]= {0,0,1,0,1,1,0,0,0,1};

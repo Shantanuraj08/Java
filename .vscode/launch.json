@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MissinginArray",
+            "request": "launch",
+            "mainClass": "Array.MissinginArray",
+            "projectName": "JAVA TUTORIAL_296160c8"
+        },
+        {
+            "type": "java",
+            "name": "Rotate",
+            "request": "launch",
+            "mainClass": "Array.Rotate",
+            "projectName": "JAVA TUTORIAL_296160c8"
+        },
+        {
+            "type": "java",
+            "name": "revision",
+            "request": "launch",
+            "mainClass": "Array.revision",
+            "projectName": "JAVA TUTORIAL_296160c8"
+        },
+        {
+            "type": "java",
             "name": "DuplicateLeetCode26",
             "request": "launch",
             "mainClass": "Array.DuplicateLeetCode26",
