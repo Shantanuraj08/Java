@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Methods.Factorial",
+            "projectName": "JAVA TUTORIAL_296160c8"
+        },
+        {
+            "type": "java",
+            "name": "CompareTO",
+            "request": "launch",
+            "mainClass": "Strings.CompareTO",
+            "projectName": "JAVA TUTORIAL_296160c8"
+        },
+        {
+            "type": "java",
+            "name": "CountVowels",
+            "request": "launch",
+            "mainClass": "Strings.CountVowels",
+            "projectName": "JAVA TUTORIAL_296160c8"
+        },
+        {
+            "type": "java",
             "name": "MissinginArray",
             "request": "launch",
             "mainClass": "Array.MissinginArray",
