@@ -17,6 +17,7 @@ public class Factorial {
           int npr =factorial(n)/factorial(n-r);
           System.out.println(ncr);
           System.out.println(npr);
+          sc.close();
     }
     
 }
