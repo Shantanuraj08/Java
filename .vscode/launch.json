@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LinkedLIstDsRevise",
+            "request": "launch",
+            "mainClass": "LinkedList.LinkedLIstDsRevise",
+            "projectName": "JAVA TUTORIAL_296160c8"
+        },
+        {
+            "type": "java",
+            "name": "LinkedListRevise",
+            "request": "launch",
+            "mainClass": "LinkedList.LinkedListRevise",
+            "projectName": "JAVA TUTORIAL_296160c8"
+        },
+        {
+            "type": "java",
+            "name": "LinkedListDs",
+            "request": "launch",
+            "mainClass": "LinkedList.LinkedListDs",
+            "projectName": "JAVA TUTORIAL_296160c8"
+        },
+        {
+            "type": "java",
+            "name": "LinkedListDemo",
+            "request": "launch",
+            "mainClass": "LinkedList.LinkedListDemo",
+            "projectName": "JAVA TUTORIAL_296160c8"
+        },
+        {
+            "type": "java",
             "name": "BinaryTreeDemo",
             "request": "launch",
             "mainClass": "BinaryTree.BinaryTreeDemo",

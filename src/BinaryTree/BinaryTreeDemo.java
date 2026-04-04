@@ -1,5 +1,7 @@
 package BinaryTree;
 
+import java.util.LinkedList;
+import java.util.Queue;
 import java.util.Scanner;
 
 class BinaryTreeNode{
@@ -26,6 +28,7 @@ public class BinaryTreeDemo {
     node.right=buildTree();
     return node; 
    }
+   //DFT
     static void print(BinaryTreeNode root){
     if(root==null){
         return ;
@@ -34,8 +37,31 @@ public class BinaryTreeDemo {
     print(root.left);
     print(root.right);
    }
+    static void printBFT(BinaryTreeNode root){
+    Queue<BinaryTreeNode> queue = new LinkedList<>();
+    if(root==null){
+        return ;
+    }
+    queue.add(root);
+    while(!queue.isEmpty()){
+        int queueSize= queue.size();
+        for(int i=1;i<=queueSize;i++){
+        BinaryTreeNode node=queue.poll();
+        System.out.print(node.data +" ");
+        if(node.left!= null){
+            queue.add(node.left);
+        }
+        if(node.right!=null){
+            queue.add(node.right);
+        }
+        }
+       System.out.println();
+    }
+   }
    public static void main(String[] args) {
     BinaryTreeNode root = buildTree();
     print(root);
+    System.out.println("now print using DFT");
+    printBFT(root);
    }
 }
